@@ -1,0 +1,29 @@
+.body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.card{
+  background-color: #fff;padding: 20px;
+}
+.header{
+  background-color: #fff; text-align: center;
+  font-weight: bolder;
+}
+.input{
+  height: 60px; width:100%; font-size: 1.3em;
+  text-align: center;background:#212f3c;
+  color: #fff; border-radius: 10px; border:none;
+}
+.profile{
+  padding: 20px; background: #e74c3c;
+  background-size: cover; margin: 10px;
+  font-weight: bolder; color: #fff;
+}
+.inner{
+  height:100%; padding: 10px;
+}
+/*GitHub page*/
+.Contributors{
+  background-color: green; padding: 10px;
+}
